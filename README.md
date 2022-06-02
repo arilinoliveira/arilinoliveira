@@ -1,6 +1,6 @@
 # Bem-vinde! :wave:
 
-Oi, me chamo Arilin, tenho 22 anos e resido em Salvador, BA.
+Oi, me chamo Arilin, tenho 22 anos e resido em Salvador, BA. Meus pronomes são ela/dela.
 
 ## Meus interesses 💭
 💻 Tecnologia
