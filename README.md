@@ -12,7 +12,7 @@ Oi, me chamo Arilin, tenho 22 anos e resido em Salvador, BA. Meus pronomes são 
 
 ## Estudando atualmente 👩‍🎓
  - Bacharelado em Design | Universidade do Estado da Bahia
- - Bootcamp Santander Fullstack Developer
+ - Bootcamp Santander Fullstack Developer | Digital Innovation Inc
 
 ## Onde me encontrar 🔎
  - Linkedin: https://www.linkedin.com/in/arilin-oliveira/
